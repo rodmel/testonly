@@ -1,4 +1,0 @@
-testonly
-========
-
-test only
